@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KeneilDev
+- 👀 I’m interested in .NET Core and Front end development
+- 🌱 I’m currently learning .NET Core
+- 📫 keneiljordan@hotmail.co.uk
